@@ -1,4 +1,4 @@
-
+![image](https://github.com/Muneiahtellakula/android_development/blob/master/sen.jpg)
 <img src="https://github.com/Muneiahtellakula/android_development/blob/master/sen.jpg?raw=true">
 
 ## Sensors in Android:-
@@ -11,6 +11,7 @@
 * It is pretty much possible for an android device to have a different number of sensors, i.e it’s not necessary that all the devices must have all the sensors. Also, it’s possible for a particular device may have more than one sensor of the same type but with different configurations and capabilities.
 * To express data values or to collect data, the sensors in Android devices use a 3-axis coordinate system i.e. you will be having X, Y, and Z-axis. The following figure depicts the position of various axis used in sensors.
 
+![image](https://github.com/Muneiahtellakula/android_development/blob/master/sensdir.jpg)
 <img src="https://github.com/Muneiahtellakula/android_development/blob/master/sensdir.jpg?raw=true">
  
 
