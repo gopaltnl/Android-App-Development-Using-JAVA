@@ -422,6 +422,4 @@ public class NavigationHomeFragment extends Fragment {
 
 
 
-  #### Step 9:Run your application
-  
-  #                Thank you.....!
+  ##### Step 9:Run your application
