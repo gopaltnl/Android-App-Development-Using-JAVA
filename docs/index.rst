@@ -22,6 +22,14 @@ Welcome to Android Application Development - APSSDC's documentation!
    NavigationComponents.md
    Navigation Drawer.md
    TabNavigation.md
+   RecyclerViewWithDiffUtil.md
+   Retrofit.md
+   Notification.md
+   Broadcast Receivers.md
+   WorkManager.md
+   SharedPreferences.md
+   RoomDataBaseWithLiveData.md
+   
    
    
    
