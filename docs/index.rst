@@ -10,8 +10,11 @@ Welcome to Android Application Development - APSSDC's documentation!
    :maxdepth: 2
    :numbered:
    
-   Introduction to REACT
-   Introduction to Django.md
+   Intents.md
+   Activity Life Cycle.md
+   User InterFace Components.md
+   Buttons and Clickable Images.md
+   
 
 
 
