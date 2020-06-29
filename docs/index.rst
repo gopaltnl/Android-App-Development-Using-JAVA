@@ -11,7 +11,9 @@ Welcome to Android Application Development - APSSDC's documentation!
    :numbered:
    
    intents.md
-   
+   ActivityLifeCycles.md
+   UserInterFaceComponents.md
+   clickableButtons.md
    
 
 
