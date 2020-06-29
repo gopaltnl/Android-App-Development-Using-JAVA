@@ -29,7 +29,6 @@ Welcome to Android Application Development - APSSDC's documentation!
    WorkManager.md
    SharedPreferences.md
    RoomDataBaseWithLiveData.md
-   sensor.md
    
    
 
