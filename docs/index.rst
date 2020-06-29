@@ -12,23 +12,6 @@ Welcome to Android Application Development - APSSDC's documentation!
    
    intents.md
    ActivityLifeCycles.md
-   UserInterFaceComponents.md
-   clickableButtons.md
-   UserInterFaceComponents.md
-   UserInputControls.md
-   Menus.md
-   DialogPickers.md
-   MaterialDesign.md
-   NavigationComponents.md
-   Navigation Drawer.md
-   TabNavigation.md
-   RecyclerViewWithDiffUtil.md
-   Retrofit.md
-   Notification.md
-   Broadcast Receivers.md
-   WorkManager.md
-   SharedPreferences.md
-   RoomDataBaseWithLiveData.md
    
    
 
