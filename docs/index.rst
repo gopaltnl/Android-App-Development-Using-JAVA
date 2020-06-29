@@ -10,10 +10,8 @@ Welcome to Android Application Development - APSSDC's documentation!
    :maxdepth: 2
    :numbered:
    
-   Intents.md
-   activitylifecycle.md
-   UserInterFaceComponents.md
-   clickableButtons.md
+   intents.md
+   
    
 
 
