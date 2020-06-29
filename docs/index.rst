@@ -32,6 +32,7 @@ Welcome to Android Application Development - APSSDC's documentation!
    SharedPreferences.md
    RoomDataBaseWithLiveData.md
    FirebaseDatabase.md
+   sensor.md
    
    
    
