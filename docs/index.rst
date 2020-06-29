@@ -10,6 +10,7 @@ Welcome to Android Application Development - APSSDC's documentation!
    :maxdepth: 2
    :numbered:
    
+   Java.md
    intents.md
    ActivityLifeCycles.md
    UserInterFaceComponents.md
@@ -29,6 +30,7 @@ Welcome to Android Application Development - APSSDC's documentation!
    WorkManager.md
    SharedPreferences.md
    RoomDataBaseWithLiveData.md
+   FirebaseDatabase.md
    
    
    
