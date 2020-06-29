@@ -86,6 +86,7 @@ public class MainActivity extends AppCompatActivity {
 #### Add another Activity to your project
 * The MainActivity for your app and its associated layout file is supplied by an Activity template in Android Studio such as Empty Activity or Basic Activity. You can add a new Activity to your project by choosing File > New > Activity. Choose the Activity template you want to use, or open the Gallery to see all the available templates.
 
+<img src="activity-gallery.png"/>
 ![Gallery](activity-gallery.png)
 
 - When you choose an Activity template, you see the same set of screens for creating the new activity that you did when you created the project. Android Studio provides three things for each new activity in your app:
