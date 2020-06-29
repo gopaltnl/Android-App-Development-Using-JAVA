@@ -1,4 +1,4 @@
-![JAVA IMAGE](images/java.png)
+![JAVAIMAGE](images/java.png)
 
 # INTRODUCTION TO JAVA
 
