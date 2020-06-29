@@ -1,5 +1,5 @@
 ![image](https://github.com/Muneiahtellakula/android_development/blob/master/sen.jpg)
-<img src="https://github.com/Muneiahtellakula/android_development/blob/master/sen.jpg?raw=true">
+
 
 ## Sensors in Android:-
 
@@ -12,7 +12,7 @@
 * To express data values or to collect data, the sensors in Android devices use a 3-axis coordinate system i.e. you will be having X, Y, and Z-axis. The following figure depicts the position of various axis used in sensors.
 
 ![image](https://github.com/Muneiahtellakula/android_development/blob/master/sensdir.jpg)
-<img src="https://github.com/Muneiahtellakula/android_development/blob/master/sensdir.jpg?raw=true">
+
  
 
 **Coordinate system (relative to a device) that’s used by the Sensor API.**
