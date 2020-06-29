@@ -90,7 +90,7 @@ To send a local broadcast:
 The PowerReceiver app will register a BroadcastReceiver that displays a toast message when the device is connected or disconnected from power. The app will also send and receive a custom broadcast to display a different toast message.
 
 
-<img src="https://codelabs.developers.google.com/codelabs/android-training-broadcast-receivers/img/26c4a5117e27b023.png" height=400 width=200>
+![BRRE](https://codelabs.developers.google.com/codelabs/android-training-broadcast-receivers/img/26c4a5117e27b023.png)
 
 
 ### Task 1. Set up the PowerReceiver project
@@ -184,7 +184,7 @@ if (intentAction != null) {
 4. Run your app. After the app is running, connect or disconnect your device's power supply. A Toast is displayed each time you connect or disconnect the power supply, as long as your Activity is running.
 
 ### Output
-<img src="https://github.com/mastan511/MastanImages/blob/master/ezgif.com-video-to-gif.gif" height=400 width=200>
+![qwer](https://github.com/mastan511/MastanImages/blob/master/ezgif.com-video-to-gif.gif)
 
 ### Task 2. Send and receive a custom broadcast
 In addition to responding to system broadcasts, your app can send and receive custom broadcasts. Use a custom broadcast when you want your app to take an action without launching an activity, for example when you want to let other apps know that data has been downloaded to the device.
@@ -268,4 +268,4 @@ implementation 'androidx.localbroadcastmanager:localbroadcastmanager:1.0.0'
 ```
 
 ### OutPut
-<img src="https://github.com/mastan511/MastanImages/blob/master/ezgif.com-video-to-gif%20(1).gif" height=400 width=200>
+![4566](https://github.com/mastan511/MastanImages/blob/master/ezgif.com-video-to-gif%20(1).gif)
