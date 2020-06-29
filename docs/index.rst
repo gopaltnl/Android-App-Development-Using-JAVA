@@ -9,11 +9,22 @@ Welcome to Android Application Development - APSSDC's documentation!
 .. toctree::
    :maxdepth: 2
    :numbered:
-   
+   .. Muneiah's Work
    intents.md
    ActivityLifeCycles.md
    UserInterFaceComponents.md
    clickableButtons.md
+   .. Sai Sankar's work
+   UserInterFaceComponents.md
+   UserInputControls.md
+   Menus.md
+   DialogPickers.md
+   MaterialDesign.md
+   NavigationComponents.md
+   Navigation Drawer.md
+   TabNavigation.md
+   
+   
    
 
 
