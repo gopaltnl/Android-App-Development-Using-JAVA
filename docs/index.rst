@@ -11,7 +11,6 @@ Welcome to Android Application Development - APSSDC's documentation!
    :numbered:
    
    Java.md
-   installDevEnv.md
    intents.md
    ActivityLifeCycles.md
    UserInterFaceComponents.md
