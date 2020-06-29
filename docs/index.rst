@@ -12,8 +12,8 @@ Welcome to Android Application Development - APSSDC's documentation!
    
    Intents.md
    activitylifecycle.md
-   User InterFace Components.md
-   Buttons and Clickable Images.md
+   UserInterFaceComponents.md
+   clickableButtons.md
    
 
 
